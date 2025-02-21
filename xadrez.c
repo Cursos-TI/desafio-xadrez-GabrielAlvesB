@@ -41,6 +41,7 @@ int main() {
     }
 
     // Segundo movimento: Cavalo se move uma casa para a esquerda
+    
     printf("Esquerda\n");
 
     return 0;
